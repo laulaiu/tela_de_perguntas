@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tela de perguntas</string>
+    <string name="value_checkbox">perguntas aqui</string>
 </resources>
